@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushal Devrari</h1>
 <h3 align="center">A passionate Flutter Developer and Competitive programmer from India.</h3>
-  <h3> 3rd year Undergrad at the National Institute of Technology Uttarakhand.</h3>
+  <h3 align="center"> 3rd year Undergrad at the National Institute of Technology Uttarakhand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushaldevrari" alt="kaushaldevrari" /> </p>
 
