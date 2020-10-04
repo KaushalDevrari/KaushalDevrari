@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushaldevrari" alt="kaushaldevrari" /> </p>
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **flutter Projects**
 
 - 🌱 I’m currently learning **Dart and GO**
 
