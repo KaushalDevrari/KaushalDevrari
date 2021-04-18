@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Devrari</h1>
-<h3 align="center">A passionate flutter developer and competitive programmer from India.3rd year Undergrad National Institute of Technology Uttarakhand.</h3>
+<h3 align="center">A passionate full stack developer and competitive programmer from India.3rd year Undergrad National Institute of Technology Uttarakhand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushaldevrari&label=Profile%20views&color=0e75b6&style=flat" alt="kaushaldevrari" /> </p>
 
